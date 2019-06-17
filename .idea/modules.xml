@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../SQL_Test/.idea/SQL_Test.iml" filepath="$PROJECT_DIR$/../SQL_Test/.idea/SQL_Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SQL_refractor/.idea/SQL_refractor.iml" filepath="$PROJECT_DIR$/../SQL_refractor/.idea/SQL_refractor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/course_work_finish.iml" filepath="$PROJECT_DIR$/.idea/course_work_finish.iml" />
+    </modules>
+  </component>
+</project>
